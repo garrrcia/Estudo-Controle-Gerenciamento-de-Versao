@@ -12,9 +12,33 @@ $ git init
 
 Limpar a tela do terminal
 
-CTRL + l (ele)
+CTRL + l ( letra ele)
 
+Passo-a-passo de como criar um repositório no GitHub - Primeira entrada:
 
+```
+echo "# Estudo-Controle-Gerenciamento-de-Versao" >> README.md
+git init
+git add README.md
+git commit -m "first commit" #mensagem que acompanha o commit
+git branch -M main
+git remote add origin https://github.com/garrrcia/Estudo-Controle-Gerenciamento-de-Versao.git
+git push -u origin main
+```
 
+Configurar/Mudar nome de usuário (o ideal é já utilizar o mesmo do GitHub)
 
+$ git config --global user.name "<seu nominho aqui>"
+
+Configurar/Mudar e-mail de usuário (o ideal é já utilizar o mesmo do GitHub)
+
+$ git config --global user.email  <seu email aqui>
+
+Lista de configurações globais
+
+$ git config --list
+
+Mudanças de estado do projeto
+
+$ git status
 
