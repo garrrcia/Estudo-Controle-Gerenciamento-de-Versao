@@ -1,0 +1,20 @@
+###### Comandos Git
+
+Descobrir qual a versão instalada
+
+$ git --version
+
+Criar um repositório. Cria um arquivo .git
+
+$ git init
+
+ Lembre-se que: um repositório é criado correspondente ao diretório(pasta onde ele se encontra).
+
+Limpar a tela do terminal
+
+CTRL + l (ele)
+
+
+
+
+
