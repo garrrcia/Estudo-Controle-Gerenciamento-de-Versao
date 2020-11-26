@@ -1,1 +1,2 @@
-https://docs.google.com/presentation/d/1iSfzVbr-q-L4VEr1vgvoHXR2qawZ9IX2GQ1A5Ve6UB8/edit?usp=sharing
+[PPT do curso de Git e Github - Matheus Battisti](https://docs.google.com/presentation/d/1iSfzVbr-q-L4VEr1vgvoHXR2qawZ9IX2GQ1A5Ve6UB8/edit?usp=sharing)
+[Anotações curso de Git e GitHub do bootcamp Everios+DIO](https://docs.google.com/document/d/1rdieNqvLTztXGtDdlBycK_OPfkh60qkLJ9JMxxKIq1o/edit?usp=sharing)
